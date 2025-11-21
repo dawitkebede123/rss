@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>My Custom Feed</title>
+    <link>https://github.com/YOUR_USERNAME</link>
+    <description>My manual RSS feed</description>
+
+    <item>
+      <title>First Item</title>
+      <link>https://example.com/post1</link>
+      <description>This is my first RSS content.</description>
+      <pubDate>Tue, 21 Nov 2025 10:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
